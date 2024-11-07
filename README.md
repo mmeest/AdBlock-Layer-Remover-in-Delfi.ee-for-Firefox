@@ -1,11 +1,11 @@
 <div>
   <p align="center">
-    <img src="https://github.com/mmeest/Firefox-Extension-Google-map-search-button/blob/main/del.png" width="700px">
+    <img src="https://github.com/mmeest/AdBlock-Layer-Remover-in-Delfi.ee-for-Firefox/blob/main/del.png" width="220px">
   </p>
 </div>
 
 
-# Firefox-Extension-Google-map-search-button-main
+# Firefox-Extension-To-Remove-AdBlock-Layer-In-Delfi.ee
 Removes Delfi Ad-Block layer on Firefox
 
 
