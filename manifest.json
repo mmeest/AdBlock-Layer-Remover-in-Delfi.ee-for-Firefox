@@ -1,0 +1,29 @@
+{
+    "manifest_version": 2,
+    "name": "AdBlockLayer",
+    "version": "1.0",
+  
+    "description": "Remove Delfi Ad-Block layer in Firefox.",
+  
+    "icons": {
+      "48": "icons/location.png"
+    },
+
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "searchify@example.com"
+      }
+    },    
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.delfi.ee/*"],
+        "js": ["adblocklayer.js"]
+      }
+    ],
+
+    "browser_action": {
+      "default_title": "AdBlockLayer"
+    }
+  }
+  
