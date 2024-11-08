@@ -18,7 +18,8 @@
     "content_scripts": [
       {
         "matches": ["*://*.delfi.ee/*"],
-        "js": ["adblocklayer.js"]
+        "js": ["adblocklayer.js"],
+        "all_frames": true
       }
     ],
 
