@@ -51,3 +51,15 @@ Click on gear icon
 Select 'Install Add-on from File...'
 
 This accepts file archives in format '.xpi', '.jar' and '.zip'
+
+__________________________________
+
+v1.1
+
+Added
+
+```
+"all_frames": true
+```
+
+to 'manifest.json' for delfi subsites.
